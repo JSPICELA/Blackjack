@@ -1,0 +1,39 @@
+h1 {
+    color: goldenrod;
+    font-size: 80px;
+}
+
+body {
+    background-image: url(/Users/sonofaldrete/Documents/GitHub/Blackjack/assets/blackjackTable.png);
+    background-size: cover;
+
+}
+
+#allTextDisplay {
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#startButton {
+ color: #016f32;
+ width: 150px;
+ background-color: goldenrod;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ margin-bottom: 5px;
+}
+
+#drawCardButton {
+ color: #016f32;
+ width: 150px;
+ background-color: goldenrod;
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
